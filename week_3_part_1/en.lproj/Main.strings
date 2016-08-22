@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1w2-Ai-DsG"; */
+"1w2-Ai-DsG.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8Z8-qu-8wt"; */
+"8Z8-qu-8wt.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9R9-h0-CLi"; */
+"9R9-h0-CLi.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JgU-rb-Iie"; */
+"JgU-rb-Iie.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Facebook Page"; ObjectID = "MSO-Dc-WZo"; */
+"MSO-Dc-WZo.normalTitle" = "Facebook Page";
+
+/* Class = "UITableViewController"; title = "YouBike"; ObjectID = "PCp-hy-ie7"; */
+"PCp-hy-ie7.title" = "YouBike";
+
+/* Class = "UILabel"; text = "剩"; ObjectID = "TCw-NW-erl"; */
+"TCw-NW-erl.text" = "";
+
+/* Class = "UILabel"; text = "台"; ObjectID = "WxQ-ZZ-h3T"; */
+"WxQ-ZZ-h3T.text" = "bikes left";
+
+/* Class = "UILabel"; text = "Zoe Lin"; ObjectID = "Xut-qA-acq"; */
+"Xut-qA-acq.text" = "Zoe Lin";
+
+/* Class = "UITabBarItem"; title = "Stations"; ObjectID = "age-Vd-5mh"; */
+"age-Vd-5mh.title" = "Stations";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "bcM-8F-wdd"; */
+"bcM-8F-wdd.title" = "Profile";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gJW-fa-HA0"; */
+"gJW-fa-HA0.text" = "Label";
+
+/* Class = "UISegmentedControl"; iDr-Af-i2p.segmentTitles[0] = "Standard"; ObjectID = "iDr-Af-i2p"; */
+"iDr-Af-i2p.segmentTitles[0]" = "Standard";
+
+/* Class = "UISegmentedControl"; iDr-Af-i2p.segmentTitles[1] = "Satellite"; ObjectID = "iDr-Af-i2p"; */
+"iDr-Af-i2p.segmentTitles[1]" = "Satellite";
+
+/* Class = "UISegmentedControl"; iDr-Af-i2p.segmentTitles[2] = "Hybird"; ObjectID = "iDr-Af-i2p"; */
+"iDr-Af-i2p.segmentTitles[2]" = "Hybird";
+
+/* Class = "UIButton"; normalTitle = "Log in with Facebook"; ObjectID = "jAl-xs-EeW"; */
+"jAl-xs-EeW.normalTitle" = "Log in with Facebook";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "l2p-IO-KMx"; */
+"l2p-IO-KMx.title" = "Profile";
+
+/* Class = "UINavigationItem"; title = "YouBike"; ObjectID = "mOl-3P-EIo"; */
+"mOl-3P-EIo.title" = "YouBike";
+
+/* Class = "UILabel"; text = "台"; ObjectID = "q97-x9-bh0"; */
+"q97-x9-bh0.text" = "bikes left";
+
+/* Class = "UILabel"; text = "YouBike"; ObjectID = "w9E-kY-beT"; */
+"w9E-kY-beT.text" = "YouBike";
+
+/* Class = "UILabel"; text = "剩"; ObjectID = "wwO-Ta-K57"; */
+"wwO-Ta-K57.text" = "";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xWV-Ab-8ph"; */
+"xWV-Ab-8ph.text" = "Label";

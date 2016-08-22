@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="week_3_part_1/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="en-VG">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" build-num="7D175"/>
+    </header>
+    <body/>
+  </file>
+  <file original="week_3_part_1/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="en-VG">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" build-num="7D175"/>
+    </header>
+    <body>
+      <trans-unit id="1w2-Ai-DsG.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "1w2-Ai-DsG";</note>
+      </trans-unit>
+      <trans-unit id="8Z8-qu-8wt.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "8Z8-qu-8wt";</note>
+      </trans-unit>
+      <trans-unit id="9R9-h0-CLi.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "9R9-h0-CLi";</note>
+      </trans-unit>
+      <trans-unit id="JgU-rb-Iie.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "JgU-rb-Iie";</note>
+      </trans-unit>
+      <trans-unit id="MSO-Dc-WZo.normalTitle">
+        <source>Facebook Page</source>
+        <target>Facebook Page</target>
+        <note>Class = "UIButton"; normalTitle = "Facebook Page"; ObjectID = "MSO-Dc-WZo";</note>
+      </trans-unit>
+      <trans-unit id="PCp-hy-ie7.title">
+        <source>YouBike</source>
+        <target>YouBike</target>
+        <note>Class = "UITableViewController"; title = "YouBike"; ObjectID = "PCp-hy-ie7";</note>
+      </trans-unit>
+      <trans-unit id="TCw-NW-erl.text">
+        <source>剩</source>
+        <target>剩</target>
+        <note>Class = "UILabel"; text = "剩"; ObjectID = "TCw-NW-erl";</note>
+      </trans-unit>
+      <trans-unit id="WxQ-ZZ-h3T.text">
+        <source>台</source>
+        <target>台</target>
+        <note>Class = "UILabel"; text = "台"; ObjectID = "WxQ-ZZ-h3T";</note>
+      </trans-unit>
+      <trans-unit id="Xut-qA-acq.text">
+        <source>Zoe Lin</source>
+        <target>Zoe Lin</target>
+        <note>Class = "UILabel"; text = "Zoe Lin"; ObjectID = "Xut-qA-acq";</note>
+      </trans-unit>
+      <trans-unit id="age-Vd-5mh.title">
+        <source>Stations</source>
+        <target>Stations</target>
+        <note>Class = "UITabBarItem"; title = "Stations"; ObjectID = "age-Vd-5mh";</note>
+      </trans-unit>
+      <trans-unit id="bcM-8F-wdd.title">
+        <source>Profile</source>
+        <target>Profile</target>
+        <note>Class = "UITabBarItem"; title = "Profile"; ObjectID = "bcM-8F-wdd";</note>
+      </trans-unit>
+      <trans-unit id="gJW-fa-HA0.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "gJW-fa-HA0";</note>
+      </trans-unit>
+      <trans-unit id="iDr-Af-i2p.segmentTitles[0]">
+        <source>Standard</source>
+        <target>Standard</target>
+        <note>Class = "UISegmentedControl"; iDr-Af-i2p.segmentTitles[0] = "Standard"; ObjectID = "iDr-Af-i2p";</note>
+      </trans-unit>
+      <trans-unit id="iDr-Af-i2p.segmentTitles[1]">
+        <source>Satellite</source>
+        <target>Satellite</target>
+        <note>Class = "UISegmentedControl"; iDr-Af-i2p.segmentTitles[1] = "Satellite"; ObjectID = "iDr-Af-i2p";</note>
+      </trans-unit>
+      <trans-unit id="iDr-Af-i2p.segmentTitles[2]">
+        <source>Hybird</source>
+        <target>Hybird</target>
+        <note>Class = "UISegmentedControl"; iDr-Af-i2p.segmentTitles[2] = "Hybird"; ObjectID = "iDr-Af-i2p";</note>
+      </trans-unit>
+      <trans-unit id="jAl-xs-EeW.normalTitle">
+        <source>Log in with Facebook</source>
+        <target>Log in with Facebook</target>
+        <note>Class = "UIButton"; normalTitle = "Log in with Facebook"; ObjectID = "jAl-xs-EeW";</note>
+      </trans-unit>
+      <trans-unit id="l2p-IO-KMx.title">
+        <source>Profile</source>
+        <target>Profile</target>
+        <note>Class = "UINavigationItem"; title = "Profile"; ObjectID = "l2p-IO-KMx";</note>
+      </trans-unit>
+      <trans-unit id="mOl-3P-EIo.title">
+        <source>YouBike</source>
+        <target>YouBike</target>
+        <note>Class = "UINavigationItem"; title = "YouBike"; ObjectID = "mOl-3P-EIo";</note>
+      </trans-unit>
+      <trans-unit id="q97-x9-bh0.text">
+        <source>台</source>
+        <target>台</target>
+        <note>Class = "UILabel"; text = "台"; ObjectID = "q97-x9-bh0";</note>
+      </trans-unit>
+      <trans-unit id="w9E-kY-beT.text">
+        <source>YouBike</source>
+        <target>YouBike</target>
+        <note>Class = "UILabel"; text = "YouBike"; ObjectID = "w9E-kY-beT";</note>
+      </trans-unit>
+      <trans-unit id="wwO-Ta-K57.text">
+        <source>剩</source>
+        <target>剩</target>
+        <note>Class = "UILabel"; text = "剩"; ObjectID = "wwO-Ta-K57";</note>
+      </trans-unit>
+      <trans-unit id="xWV-Ab-8ph.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "xWV-Ab-8ph";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="week_3_part_1/Info.plist" source-language="en" datatype="plaintext" target-language="en-VG">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" build-num="7D175"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="week_3_part_1/Localizable.strings" source-language="en" datatype="plaintext" target-language="en-VG">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" build-num="7D175"/>
+    </header>
+    <body>
+      <trans-unit id="看地圖">
+        <source>看地圖</source>
+        <note>see the map button
+   view the map button</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="week_3_part_1Tests/Info.plist" source-language="en" datatype="plaintext" target-language="en-VG">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" build-num="7D175"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="week_3_part_1UITests/Info.plist" source-language="en" datatype="plaintext" target-language="en-VG">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" build-num="7D175"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
